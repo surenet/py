@@ -1,4 +1,6 @@
 # -*-coding:gbk-*-
+# __author__='surenet'
+
 tenInteger=[i for i in range(11)]
 print(tenInteger)
 for i in tenInteger:
